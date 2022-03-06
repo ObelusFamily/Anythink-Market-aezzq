@@ -2,6 +2,8 @@
 
 To start the app use: `./start.sh`, it'll start both the backend and the frontend.
 
+Make sure that you creates an `.env` file that contains your MONGODB_URI
+
 Please find more info about each part in the relevant Readme file ([frontend](frontend/readme.md) and [backend](backend/README.md)).
 
 ## Development
